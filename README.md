@@ -5,10 +5,7 @@ This Jupyter notebook contains code for Car Recognizer. CNN is written in python
 
 The process of building a Convolutional Neural Network always involves four major steps.
 
-Step - 1 : Convolution,
-Step - 2 : Pooling,
-Step - 3 : Flattening,
-Step - 4 : Full connection
+Step 1: Convolution, Step 2: Pooling, Step 3: Flattening, Step 4: Full connection
 
 ## Installation:
 Installing Tensorflow using pip install tensorflow
