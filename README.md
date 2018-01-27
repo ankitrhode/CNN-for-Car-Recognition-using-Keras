@@ -11,7 +11,7 @@ Step 3: Flattening <br />
 Step 4: Full connection <br />
 
 ## Installation:
-Installing `Tensorflow` using `pip install tensorflow` <br />
+Install `Tensorflow` using `pip install tensorflow` <br />
 Install `sklearn` using `sudo pip install sklearn` <br />
 Install `keras` using `sudo pip install keras` <br />
 Install `skimage` using `sudo pip install scikit-image` <br />
